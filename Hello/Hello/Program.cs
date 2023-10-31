@@ -6,7 +6,9 @@ namespace Hello
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav iz aplikacije od Tije L, moj broj: 1234!");
+
+            Console.WriteLine("Pozdrav iz aplikacije od Tije L!");
+
         }
     }
 }
